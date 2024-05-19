@@ -18,3 +18,5 @@ program7: https://github.com/CodesPriyansh/Metapod/blob/main/program7.py
 program8: https://github.com/CodesPriyansh/Metapod/blob/main/program8.py
 
 program9: https://github.com/CodesPriyansh/Metapod/blob/main/program9.py
+
+program10: https://github.com/CodesPriyansh/Metapod/blob/main/program10.py
